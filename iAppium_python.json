@@ -1,0 +1,13 @@
+{
+    "desired_caps": {
+        "platformName": "Android",
+        "platformVersion": "9",
+        "deviceName": "57147944",
+        "noReset": "false",
+        "automationName": "UiAutomator2",
+        "appPackage": "com.example.android.contactmanager",
+        "appActivity": ".ContactManager"
+    },
+    "appium_server_url": "http://127.0.0.1:4723/wd/hub"
+}
+
